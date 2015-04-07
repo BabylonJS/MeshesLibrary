@@ -1,10 +1,10 @@
-# MeshesLibrary
+# Babylon.jsMeshes Library
 
 Use this repo as a place to share your scenes and meshes.
 
 **Each scene or mesh has to be pushed inside its own folder**
 
-Please add a screen capture and potentially a description file alongside your .babylon file.
+Please add a screen capture and potentially a description file alongside your **.babylon** file.
 
 # Licensing
 
