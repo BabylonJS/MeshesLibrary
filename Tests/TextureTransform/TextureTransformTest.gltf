@@ -350,8 +350,8 @@
       "name": "Offset U",
       "mesh": 0,
       "translation": [
-        -3.3,
-        0.0,
+        -1.1,
+        0.55,
         0
       ]
     },
@@ -359,8 +359,8 @@
       "name": "Offset V",
       "mesh": 1,
       "translation": [
-        -2.2,
         0,
+        0.55,
         0
       ]
     },
@@ -368,14 +368,19 @@
       "name": "Offset UV",
       "mesh": 2,
       "translation": [
-        -1.1,
-        0,
+        1.1,
+        0.55,
         0
       ]
     },
     {
       "name": "Rotation",
       "mesh": 3,
+      "translation": [
+        -1.1,
+        -0.55,
+        0
+      ],
       "children": [
         4,
         5,
@@ -428,8 +433,8 @@
       "name": "Scale",
       "mesh": 4,
       "translation": [
-        1.1,
         0,
+        -0.55,
         0
       ],
       "children": [
@@ -469,8 +474,8 @@
       "name": "All",
       "mesh": 5,
       "translation": [
-        2.2,
-        0,
+        1.1,
+        -0.55,
         0
       ],
       "children": [
