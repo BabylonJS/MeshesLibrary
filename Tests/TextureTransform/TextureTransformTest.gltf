@@ -531,7 +531,9 @@
   "samplers": [
     {
       "wrapS": 33071,
-      "wrapT": 33071
+      "wrapT": 33071,
+      "magFilter": 9729,
+      "minFilter": 9729
     }
   ]
 }
