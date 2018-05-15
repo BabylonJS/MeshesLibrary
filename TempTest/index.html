@@ -32,6 +32,10 @@
     <script>
         var canvas = document.getElementById("renderCanvas");
         var engine = new BABYLON.Engine(canvas, true, { doNotHandleContextLost: true })
+
+        engine.loadingScreen.loadingUIText = "Loading All the required assets. (around 70 Mb download)"
+        engine.loadingScreen.displayLoadingUI();
+
         BABYLON.Animation.AllowMatricesInterpolation = true;
         engine.enableOfflineSupport = false;
 
@@ -60,6 +64,7 @@
             scene.createDefaultCameraOrLight(true, true, true);
     
             scene.executeWhenReady(function () {
+                engine.loadingScreen.hideLoadingUI();
                 engine.runRenderLoop(function () {
                     scene.render();
                 });
