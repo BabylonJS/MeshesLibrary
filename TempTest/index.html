@@ -9,19 +9,20 @@
 </head>
 
 <body>
-    <div id="viewport"></div>
+    <canvas id="renderCanvas"></canvas>
 
     <script src="./scripts/babylon.max.js"></script>
     <script src="./scripts/babylonjs.loaders.js"></script>
 
     <script>
-        var createScene = function () {
-        var scene = new BABYLON.Scene(engine);
-        scene.clearColor = new BABYLON.Color4(0, 0, 0, 0);
-     
+        var canvas = document.getElementById("renderCanvas");
+        var engine = new BABYLON.Engine(canvas, true, { doNotHandleContextLost: true })
         BABYLON.Animation.AllowMatricesInterpolation = true;
         engine.enableOfflineSupport = false;
-     
+
+        var scene = new BABYLON.Scene(engine);
+        scene.clearColor = new BABYLON.Color4(0, 0, 0, 0);
+
         async function loadAsset() {
             var container = await BABYLON.SceneLoader.LoadAssetContainerAsync("/", "FlightHelmet.glb", scene);
             container.addAllToScene();
@@ -51,7 +52,6 @@
         }
     
         loadAsset();
-    }
     </script>
 
 </body>
