@@ -45,6 +45,8 @@
         async function loadAsset() {
             var container = await BABYLON.SceneLoader.LoadAssetContainerAsync("/", "FlightHelmet.glb", scene);
             container.addAllToScene();
+
+            scene.createDefaultCameraOrLight(true, true, true);
         
             for (var meshIndex = 0; meshIndex < scene.meshes.length; meshIndex++) {
                 var mesh = scene.meshes[meshIndex];
@@ -60,8 +62,6 @@
                     }
                 }
             }
-    
-            scene.createDefaultCameraOrLight(true, true, true);
     
             scene.executeWhenReady(function () {
                 engine.loadingScreen.hideLoadingUI();
