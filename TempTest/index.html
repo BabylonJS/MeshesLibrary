@@ -63,7 +63,7 @@
                 }
             }
     
-            scene.executeWhenReady(function () {
+            scene.executeWhenReady(() => {
                 engine.loadingScreen.hideLoadingUI();
                 engine.runRenderLoop(function () {
                     scene.render();
