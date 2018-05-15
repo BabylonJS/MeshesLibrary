@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>BabylonJS Viewer</title>
+</head>
+
+<body>
+    <div id="viewport"></div>
+
+    <script src="./scripts/babylon.max.js"></script>
+    <script src="./scripts/babylonjs.loaders.js"></script>
+
+    <script>
+        var createScene = function () {
+        var scene = new BABYLON.Scene(engine);
+        scene.clearColor = new BABYLON.Color4(0, 0, 0, 0);
+     
+        BABYLON.Animation.AllowMatricesInterpolation = true;
+        engine.enableOfflineSupport = false;
+     
+        async function loadAsset() {
+            var container = await BABYLON.SceneLoader.LoadAssetContainerAsync("/", "FlightHelmet.glb", scene);
+            container.addAllToScene();
+        
+            for (var meshIndex = 0; meshIndex < scene.meshes.length; meshIndex++) {
+                var mesh = scene.meshes[meshIndex];
+    
+                if (mesh.geometry) {
+                    mesh.geometry._indices = null;
+    
+                    for (var vbName in mesh.geometry._vertexBuffers) {
+                        if (!mesh.geometry._vertexBuffers.hasOwnProperty(vbName)) {
+                            continue;
+                        }
+                        mesh.geometry._vertexBuffers[vbName]._buffer._data = null;
+                    }
+                }
+            }
+    
+            scene.createDefaultCameraOrLight(true, true, true);
+    
+            scene.executeWhenReady(function () {
+                engine.runRenderLoop(function () {
+                    scene.render();
+                });
+            });
+        }
+    
+        loadAsset();
+    }
+    </script>
+
+</body>
+
+</html>
