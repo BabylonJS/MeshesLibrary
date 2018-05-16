@@ -62,6 +62,14 @@
                     }
                 }
             }
+
+            for (var textureIndex = 0; textureIndex < scene.textures.length; textureIndex++) {
+                var texture = scene.textures[textureIndex];
+    
+                if (texture._buffer) {
+                    texture._buffer = null;
+                }
+            }
     
             scene.executeWhenReady(() => {
                 engine.loadingScreen.hideLoadingUI();
