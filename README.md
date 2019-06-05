@@ -11,6 +11,8 @@ Accepted formats:
 * .stl
 * .obj
 
+You can then access the models through our CDN at https://models.babylonjs.com/.
+
 # Licensing
 
 If not specified, every file in this repo has to be considered under [Creative Commons By 4.0](http://creativecommons.org/licenses/by/4.0/) licence.
