@@ -11,7 +11,7 @@ Accepted formats:
 * .stl
 * .obj
 
-You can then access the models through our CDN at https://models.babylonjs.com/.
+You can access the models through our CDN at https://models.babylonjs.com/.
 
 # Licensing
 
