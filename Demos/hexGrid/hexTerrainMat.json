@@ -240,248 +240,248 @@
       },
       {
         "blockId": 56,
-        "x": 2880,
+        "x": 3140,
         "y": 3920
       },
       {
         "blockId": 57,
+        "x": 2880,
+        "y": 3920
+      },
+      {
+        "blockId": 58,
         "x": 2680,
         "y": 3620
       },
       {
-        "blockId": 58,
+        "blockId": 59,
         "x": 2440,
         "y": 3280
       },
       {
-        "blockId": 59,
+        "blockId": 60,
         "x": 2180,
         "y": 2960
       },
       {
-        "blockId": 60,
+        "blockId": 61,
         "x": 1860,
         "y": 2660
       },
       {
-        "blockId": 61,
+        "blockId": 62,
         "x": 1540,
         "y": 2500
       },
       {
-        "blockId": 62,
+        "blockId": 63,
         "x": 1260,
         "y": 2440
       },
       {
-        "blockId": 63,
+        "blockId": 64,
         "x": 940,
         "y": 2360
       },
       {
-        "blockId": 64,
+        "blockId": 65,
         "x": 580,
         "y": 2380
       },
       {
-        "blockId": 65,
+        "blockId": 66,
         "x": 960,
         "y": 2500
       },
       {
-        "blockId": 66,
+        "blockId": 67,
         "x": 580,
         "y": 2520
       },
       {
-        "blockId": 67,
+        "blockId": 68,
         "x": 1260,
         "y": 2580
       },
       {
-        "blockId": 68,
+        "blockId": 69,
         "x": 1560,
         "y": 2860
       },
       {
-        "blockId": 69,
+        "blockId": 70,
         "x": 1280,
         "y": 2800
       },
       {
-        "blockId": 70,
+        "blockId": 71,
         "x": 960,
         "y": 2720
       },
       {
-        "blockId": 71,
+        "blockId": 72,
         "x": 600,
         "y": 2740
       },
       {
-        "blockId": 72,
+        "blockId": 73,
         "x": 960,
         "y": 2860
       },
       {
-        "blockId": 73,
+        "blockId": 74,
         "x": 600,
         "y": 2880
       },
       {
-        "blockId": 74,
+        "blockId": 75,
         "x": 1280,
         "y": 2940
       },
       {
-        "blockId": 75,
+        "blockId": 76,
         "x": 1560,
         "y": 3180
       },
       {
-        "blockId": 76,
+        "blockId": 77,
         "x": 1280,
         "y": 3120
       },
       {
-        "blockId": 77,
+        "blockId": 78,
         "x": 960,
         "y": 3040
       },
       {
-        "blockId": 78,
+        "blockId": 79,
         "x": 600,
         "y": 3060
       },
       {
-        "blockId": 79,
+        "blockId": 80,
         "x": 960,
         "y": 3180
       },
       {
-        "blockId": 80,
+        "blockId": 81,
         "x": 600,
         "y": 3200
       },
       {
-        "blockId": 81,
+        "blockId": 82,
         "x": 1280,
         "y": 3260
       },
       {
-        "blockId": 82,
+        "blockId": 83,
         "x": 1560,
         "y": 3520
       },
       {
-        "blockId": 83,
+        "blockId": 84,
         "x": 1280,
         "y": 3460
       },
       {
-        "blockId": 84,
+        "blockId": 85,
         "x": 960,
         "y": 3380
       },
       {
-        "blockId": 85,
+        "blockId": 86,
         "x": 600,
         "y": 3400
       },
       {
-        "blockId": 86,
+        "blockId": 87,
         "x": 960,
         "y": 3520
       },
       {
-        "blockId": 87,
+        "blockId": 88,
         "x": 600,
         "y": 3540
       },
       {
-        "blockId": 88,
+        "blockId": 89,
         "x": 1280,
         "y": 3600
       },
       {
-        "blockId": 89,
+        "blockId": 90,
         "x": 1560,
         "y": 3860
       },
       {
-        "blockId": 90,
+        "blockId": 91,
         "x": 1280,
         "y": 3800
       },
       {
-        "blockId": 91,
+        "blockId": 92,
         "x": 960,
         "y": 3720
       },
       {
-        "blockId": 92,
+        "blockId": 93,
         "x": 600,
         "y": 3740
       },
       {
-        "blockId": 93,
+        "blockId": 94,
         "x": 960,
         "y": 3860
       },
       {
-        "blockId": 94,
+        "blockId": 95,
         "x": 600,
         "y": 3880
       },
       {
-        "blockId": 95,
+        "blockId": 96,
         "x": 1280,
         "y": 3940
       },
       {
-        "blockId": 96,
+        "blockId": 97,
         "x": 1560,
         "y": 4200
       },
       {
-        "blockId": 97,
+        "blockId": 98,
         "x": 1280,
         "y": 4140
       },
       {
-        "blockId": 98,
+        "blockId": 99,
         "x": 960,
         "y": 4060
       },
       {
-        "blockId": 99,
+        "blockId": 100,
         "x": 600,
         "y": 4080
       },
       {
-        "blockId": 100,
+        "blockId": 101,
         "x": 960,
         "y": 4200
       },
       {
-        "blockId": 101,
+        "blockId": 102,
         "x": 600,
         "y": 4220
       },
       {
-        "blockId": 102,
+        "blockId": 103,
         "x": 1280,
         "y": 4280
-      },
-      {
-        "blockId": 17365,
-        "x": 3140,
-        "y": 3920
       }
     ],
     "zoom": 0.29992790910751377,
-    "x": -294.2944520699896,
-    "y": -150.1076423985312,
+    "x": 624.7055479300104,
+    "y": -217.1076423985312,
     "frames": [
       {
         "x": -2000,
@@ -572,11 +572,11 @@
           51,
           50,
           48,
-          64,
-          63,
-          66,
           65,
-          62,
+          64,
+          67,
+          66,
+          63,
           55,
           52,
           47,
@@ -584,51 +584,51 @@
           46,
           44,
           45,
-          67,
+          68,
           54,
           43,
-          61,
-          74,
-          72,
-          68,
+          62,
+          75,
           73,
           69,
+          74,
           70,
           71,
-          60,
-          79,
+          72,
+          61,
           80,
           81,
-          76,
-          77,
-          75,
-          78,
-          59,
-          88,
-          86,
           82,
+          77,
+          78,
+          76,
+          79,
+          60,
+          89,
           87,
           83,
+          88,
           84,
           85,
-          58,
-          95,
-          93,
-          89,
+          86,
+          59,
+          96,
           94,
           90,
+          95,
           91,
           92,
-          57,
-          102,
-          100,
-          96,
+          93,
+          58,
+          103,
           101,
           97,
+          102,
           98,
           99,
-          56,
-          17365
+          100,
+          57,
+          56
         ]
       }
     ]
@@ -1617,8 +1617,8 @@
       "groupInInspector": "",
       "valueType": "BABYLON.Vector2",
       "value": [
-        0.27899999999999997,
-        0.08
+        -0.07,
+        0.04
       ]
     },
     {
@@ -1674,7 +1674,7 @@
         {
           "name": "factor",
           "inputName": "factor",
-          "targetBlockId": 17365,
+          "targetBlockId": 56,
           "targetConnectionName": "output"
         }
       ]
@@ -1704,39 +1704,19 @@
     },
     {
       "customType": "BABYLON.ClampBlock",
-      "id": 17365,
+      "id": 56,
       "name": "Clamp",
       "comments": "",
       "inputs": [
         {
           "name": "value",
           "inputName": "value",
-          "targetBlockId": 56,
+          "targetBlockId": 57,
           "targetConnectionName": "output"
         }
       ],
       "minimum": 0,
       "maximum": 1
-    },
-    {
-      "customType": "BABYLON.AddBlock",
-      "id": 56,
-      "name": "Add",
-      "comments": "",
-      "inputs": [
-        {
-          "name": "left",
-          "inputName": "left",
-          "targetBlockId": 57,
-          "targetConnectionName": "output"
-        },
-        {
-          "name": "right",
-          "inputName": "right",
-          "targetBlockId": 96,
-          "targetConnectionName": "output"
-        }
-      ]
     },
     {
       "customType": "BABYLON.AddBlock",
@@ -1753,7 +1733,7 @@
         {
           "name": "right",
           "inputName": "right",
-          "targetBlockId": 89,
+          "targetBlockId": 97,
           "targetConnectionName": "output"
         }
       ]
@@ -1773,7 +1753,7 @@
         {
           "name": "right",
           "inputName": "right",
-          "targetBlockId": 82,
+          "targetBlockId": 90,
           "targetConnectionName": "output"
         }
       ]
@@ -1793,7 +1773,7 @@
         {
           "name": "right",
           "inputName": "right",
-          "targetBlockId": 75,
+          "targetBlockId": 83,
           "targetConnectionName": "output"
         }
       ]
@@ -1813,15 +1793,15 @@
         {
           "name": "right",
           "inputName": "right",
-          "targetBlockId": 68,
+          "targetBlockId": 76,
           "targetConnectionName": "output"
         }
       ]
     },
     {
-      "customType": "BABYLON.MultiplyBlock",
+      "customType": "BABYLON.AddBlock",
       "id": 61,
-      "name": "Multiply",
+      "name": "Add",
       "comments": "",
       "inputs": [
         {
@@ -1833,15 +1813,15 @@
         {
           "name": "right",
           "inputName": "right",
-          "targetBlockId": 67,
+          "targetBlockId": 69,
           "targetConnectionName": "output"
         }
       ]
     },
     {
-      "customType": "BABYLON.SubtractBlock",
+      "customType": "BABYLON.MultiplyBlock",
       "id": 62,
-      "name": "Subtract",
+      "name": "Multiply",
       "comments": "",
       "inputs": [
         {
@@ -1853,14 +1833,34 @@
         {
           "name": "right",
           "inputName": "right",
-          "targetBlockId": 65,
+          "targetBlockId": 68,
+          "targetConnectionName": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.SubtractBlock",
+      "id": 63,
+      "name": "Subtract",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 64,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 66,
           "targetConnectionName": "output"
         }
       ]
     },
     {
       "customType": "BABYLON.StepBlock",
-      "id": 63,
+      "id": 64,
       "name": "Step",
       "comments": "",
       "inputs": [
@@ -1873,14 +1873,14 @@
         {
           "name": "edge",
           "inputName": "edge",
-          "targetBlockId": 64,
+          "targetBlockId": 65,
           "targetConnectionName": "output"
         }
       ]
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 64,
+      "id": 65,
       "name": "dest1Min",
       "comments": "",
       "inputs": [],
@@ -1899,7 +1899,7 @@
     },
     {
       "customType": "BABYLON.StepBlock",
-      "id": 65,
+      "id": 66,
       "name": "Step",
       "comments": "",
       "inputs": [
@@ -1912,14 +1912,14 @@
         {
           "name": "edge",
           "inputName": "edge",
-          "targetBlockId": 66,
+          "targetBlockId": 67,
           "targetConnectionName": "output"
         }
       ]
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 66,
+      "id": 67,
       "name": "dest1Max",
       "comments": "",
       "inputs": [],
@@ -1938,7 +1938,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 67,
+      "id": 68,
       "name": "dest1Visible",
       "comments": "",
       "inputs": [],
@@ -1953,32 +1953,12 @@
       "isConstant": false,
       "groupInInspector": "controls",
       "valueType": "number",
-      "value": 0
+      "value": 1
     },
     {
       "customType": "BABYLON.MultiplyBlock",
-      "id": 68,
-      "name": "Multiply",
-      "comments": "",
-      "inputs": [
-        {
-          "name": "left",
-          "inputName": "left",
-          "targetBlockId": 69,
-          "targetConnectionName": "output"
-        },
-        {
-          "name": "right",
-          "inputName": "right",
-          "targetBlockId": 74,
-          "targetConnectionName": "output"
-        }
-      ]
-    },
-    {
-      "customType": "BABYLON.SubtractBlock",
       "id": 69,
-      "name": "Subtract",
+      "name": "Multiply",
       "comments": "",
       "inputs": [
         {
@@ -1990,14 +1970,34 @@
         {
           "name": "right",
           "inputName": "right",
-          "targetBlockId": 72,
+          "targetBlockId": 75,
+          "targetConnectionName": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.SubtractBlock",
+      "id": 70,
+      "name": "Subtract",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 71,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 73,
           "targetConnectionName": "output"
         }
       ]
     },
     {
       "customType": "BABYLON.StepBlock",
-      "id": 70,
+      "id": 71,
       "name": "Step",
       "comments": "",
       "inputs": [
@@ -2010,14 +2010,14 @@
         {
           "name": "edge",
           "inputName": "edge",
-          "targetBlockId": 71,
+          "targetBlockId": 72,
           "targetConnectionName": "output"
         }
       ]
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 71,
+      "id": 72,
       "name": "dest2Min",
       "comments": "",
       "inputs": [],
@@ -2036,7 +2036,7 @@
     },
     {
       "customType": "BABYLON.StepBlock",
-      "id": 72,
+      "id": 73,
       "name": "Step",
       "comments": "",
       "inputs": [
@@ -2049,14 +2049,14 @@
         {
           "name": "edge",
           "inputName": "edge",
-          "targetBlockId": 73,
+          "targetBlockId": 74,
           "targetConnectionName": "output"
         }
       ]
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 73,
+      "id": 74,
       "name": "dest2Max",
       "comments": "",
       "inputs": [],
@@ -2075,7 +2075,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 74,
+      "id": 75,
       "name": "dest2Visible",
       "comments": "",
       "inputs": [],
@@ -2090,32 +2090,12 @@
       "isConstant": false,
       "groupInInspector": "controls",
       "valueType": "number",
-      "value": 0
+      "value": 1
     },
     {
       "customType": "BABYLON.MultiplyBlock",
-      "id": 75,
-      "name": "Multiply",
-      "comments": "",
-      "inputs": [
-        {
-          "name": "left",
-          "inputName": "left",
-          "targetBlockId": 76,
-          "targetConnectionName": "output"
-        },
-        {
-          "name": "right",
-          "inputName": "right",
-          "targetBlockId": 81,
-          "targetConnectionName": "output"
-        }
-      ]
-    },
-    {
-      "customType": "BABYLON.SubtractBlock",
       "id": 76,
-      "name": "Subtract",
+      "name": "Multiply",
       "comments": "",
       "inputs": [
         {
@@ -2127,14 +2107,34 @@
         {
           "name": "right",
           "inputName": "right",
-          "targetBlockId": 79,
+          "targetBlockId": 82,
+          "targetConnectionName": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.SubtractBlock",
+      "id": 77,
+      "name": "Subtract",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 78,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 80,
           "targetConnectionName": "output"
         }
       ]
     },
     {
       "customType": "BABYLON.StepBlock",
-      "id": 77,
+      "id": 78,
       "name": "Step",
       "comments": "",
       "inputs": [
@@ -2147,14 +2147,14 @@
         {
           "name": "edge",
           "inputName": "edge",
-          "targetBlockId": 78,
+          "targetBlockId": 79,
           "targetConnectionName": "output"
         }
       ]
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 78,
+      "id": 79,
       "name": "dest3Min",
       "comments": "",
       "inputs": [],
@@ -2173,7 +2173,7 @@
     },
     {
       "customType": "BABYLON.StepBlock",
-      "id": 79,
+      "id": 80,
       "name": "Step",
       "comments": "",
       "inputs": [
@@ -2186,14 +2186,14 @@
         {
           "name": "edge",
           "inputName": "edge",
-          "targetBlockId": 80,
+          "targetBlockId": 81,
           "targetConnectionName": "output"
         }
       ]
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 80,
+      "id": 81,
       "name": "dest3Max",
       "comments": "",
       "inputs": [],
@@ -2212,7 +2212,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 81,
+      "id": 82,
       "name": "dest3Visible",
       "comments": "",
       "inputs": [],
@@ -2227,32 +2227,12 @@
       "isConstant": false,
       "groupInInspector": "controls",
       "valueType": "number",
-      "value": 0
+      "value": 1
     },
     {
       "customType": "BABYLON.MultiplyBlock",
-      "id": 82,
-      "name": "Multiply",
-      "comments": "",
-      "inputs": [
-        {
-          "name": "left",
-          "inputName": "left",
-          "targetBlockId": 83,
-          "targetConnectionName": "output"
-        },
-        {
-          "name": "right",
-          "inputName": "right",
-          "targetBlockId": 88,
-          "targetConnectionName": "output"
-        }
-      ]
-    },
-    {
-      "customType": "BABYLON.SubtractBlock",
       "id": 83,
-      "name": "Subtract",
+      "name": "Multiply",
       "comments": "",
       "inputs": [
         {
@@ -2264,14 +2244,34 @@
         {
           "name": "right",
           "inputName": "right",
-          "targetBlockId": 86,
+          "targetBlockId": 89,
+          "targetConnectionName": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.SubtractBlock",
+      "id": 84,
+      "name": "Subtract",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 85,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 87,
           "targetConnectionName": "output"
         }
       ]
     },
     {
       "customType": "BABYLON.StepBlock",
-      "id": 84,
+      "id": 85,
       "name": "Step",
       "comments": "",
       "inputs": [
@@ -2284,14 +2284,14 @@
         {
           "name": "edge",
           "inputName": "edge",
-          "targetBlockId": 85,
+          "targetBlockId": 86,
           "targetConnectionName": "output"
         }
       ]
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 85,
+      "id": 86,
       "name": "dest4Min",
       "comments": "",
       "inputs": [],
@@ -2310,7 +2310,7 @@
     },
     {
       "customType": "BABYLON.StepBlock",
-      "id": 86,
+      "id": 87,
       "name": "Step",
       "comments": "",
       "inputs": [
@@ -2323,14 +2323,14 @@
         {
           "name": "edge",
           "inputName": "edge",
-          "targetBlockId": 87,
+          "targetBlockId": 88,
           "targetConnectionName": "output"
         }
       ]
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 87,
+      "id": 88,
       "name": "dest4Max",
       "comments": "",
       "inputs": [],
@@ -2349,7 +2349,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 88,
+      "id": 89,
       "name": "dest4Visible",
       "comments": "",
       "inputs": [],
@@ -2364,32 +2364,12 @@
       "isConstant": false,
       "groupInInspector": "controls",
       "valueType": "number",
-      "value": 0
+      "value": 1
     },
     {
       "customType": "BABYLON.MultiplyBlock",
-      "id": 89,
-      "name": "Multiply",
-      "comments": "",
-      "inputs": [
-        {
-          "name": "left",
-          "inputName": "left",
-          "targetBlockId": 90,
-          "targetConnectionName": "output"
-        },
-        {
-          "name": "right",
-          "inputName": "right",
-          "targetBlockId": 95,
-          "targetConnectionName": "output"
-        }
-      ]
-    },
-    {
-      "customType": "BABYLON.SubtractBlock",
       "id": 90,
-      "name": "Subtract",
+      "name": "Multiply",
       "comments": "",
       "inputs": [
         {
@@ -2401,14 +2381,34 @@
         {
           "name": "right",
           "inputName": "right",
-          "targetBlockId": 93,
+          "targetBlockId": 96,
+          "targetConnectionName": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.SubtractBlock",
+      "id": 91,
+      "name": "Subtract",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 92,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 94,
           "targetConnectionName": "output"
         }
       ]
     },
     {
       "customType": "BABYLON.StepBlock",
-      "id": 91,
+      "id": 92,
       "name": "Step",
       "comments": "",
       "inputs": [
@@ -2421,14 +2421,14 @@
         {
           "name": "edge",
           "inputName": "edge",
-          "targetBlockId": 92,
+          "targetBlockId": 93,
           "targetConnectionName": "output"
         }
       ]
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 92,
+      "id": 93,
       "name": "dest5Min",
       "comments": "",
       "inputs": [],
@@ -2447,7 +2447,7 @@
     },
     {
       "customType": "BABYLON.StepBlock",
-      "id": 93,
+      "id": 94,
       "name": "Step",
       "comments": "",
       "inputs": [
@@ -2460,14 +2460,14 @@
         {
           "name": "edge",
           "inputName": "edge",
-          "targetBlockId": 94,
+          "targetBlockId": 95,
           "targetConnectionName": "output"
         }
       ]
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 94,
+      "id": 95,
       "name": "dest5Max",
       "comments": "",
       "inputs": [],
@@ -2486,7 +2486,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 95,
+      "id": 96,
       "name": "dest5Visible",
       "comments": "",
       "inputs": [],
@@ -2501,32 +2501,12 @@
       "isConstant": false,
       "groupInInspector": "controls",
       "valueType": "number",
-      "value": 0
+      "value": 1
     },
     {
       "customType": "BABYLON.MultiplyBlock",
-      "id": 96,
-      "name": "Multiply",
-      "comments": "",
-      "inputs": [
-        {
-          "name": "left",
-          "inputName": "left",
-          "targetBlockId": 97,
-          "targetConnectionName": "output"
-        },
-        {
-          "name": "right",
-          "inputName": "right",
-          "targetBlockId": 102,
-          "targetConnectionName": "output"
-        }
-      ]
-    },
-    {
-      "customType": "BABYLON.SubtractBlock",
       "id": 97,
-      "name": "Subtract",
+      "name": "Multiply",
       "comments": "",
       "inputs": [
         {
@@ -2538,14 +2518,34 @@
         {
           "name": "right",
           "inputName": "right",
-          "targetBlockId": 100,
+          "targetBlockId": 103,
+          "targetConnectionName": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.SubtractBlock",
+      "id": 98,
+      "name": "Subtract",
+      "comments": "",
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 99,
+          "targetConnectionName": "output"
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 101,
           "targetConnectionName": "output"
         }
       ]
     },
     {
       "customType": "BABYLON.StepBlock",
-      "id": 98,
+      "id": 99,
       "name": "Step",
       "comments": "",
       "inputs": [
@@ -2558,14 +2558,14 @@
         {
           "name": "edge",
           "inputName": "edge",
-          "targetBlockId": 99,
+          "targetBlockId": 100,
           "targetConnectionName": "output"
         }
       ]
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 99,
+      "id": 100,
       "name": "dest6Min",
       "comments": "",
       "inputs": [],
@@ -2584,7 +2584,7 @@
     },
     {
       "customType": "BABYLON.StepBlock",
-      "id": 100,
+      "id": 101,
       "name": "Step",
       "comments": "",
       "inputs": [
@@ -2597,14 +2597,14 @@
         {
           "name": "edge",
           "inputName": "edge",
-          "targetBlockId": 101,
+          "targetBlockId": 102,
           "targetConnectionName": "output"
         }
       ]
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 101,
+      "id": 102,
       "name": "dest6Max",
       "comments": "",
       "inputs": [],
@@ -2623,7 +2623,7 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 102,
+      "id": 103,
       "name": "dest6Visible",
       "comments": "",
       "inputs": [],
@@ -2638,7 +2638,7 @@
       "isConstant": false,
       "groupInInspector": "controls",
       "valueType": "number",
-      "value": 0
+      "value": 1
     }
   ]
 }
