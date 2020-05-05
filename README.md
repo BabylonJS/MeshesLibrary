@@ -11,6 +11,14 @@ Accepted formats:
 * .stl
 * .obj
 
+**Source formats**
+
+We also share some of our source files on this repo so that the community may take advantage of them. You will find several source types in the repo including:
+
+- .blend
+- .ma
+- .3ds
+
 You can access the models through our CDN at https://models.babylonjs.com/.
 
 # Licensing
