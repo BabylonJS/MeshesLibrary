@@ -1,3 +1,6 @@
+## Please note that this repo is archived and no longer actively used.
+## Please use the assets repo instead https://github.com/BabylonJS/Assets
+
 # Babylon.js Meshes Library 
 
 Use this repo as a place to share your scenes and meshes.
